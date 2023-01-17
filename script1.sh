@@ -1,2 +1,2 @@
 #!/bin/bash
-echo coucou
+echo ciao
